@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import prod4 from '../Json/Product3Cat.json';
 import prod3 from '../Json/Product3.json';
-import image1 from '../../public/Images/Product3/Diesel_cars.png'
+import image1 from '../assets/product3/diesel_cars.png'
 
 function Product3() {
   const [activeTab, setActiveTab] = useState('home');

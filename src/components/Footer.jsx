@@ -102,9 +102,12 @@ function Footer() {
         </div>
 
         {/* Sticky Bottom Footer */}
-        <div className="mt-3 inset-x-0 bottom-0 w-full bg-red-600 text-center text-white py-2">
-          <p>Design and Developed by Fame Business Solutions, Copyright ©2021-2025 Fame Wheels (SMC-Pvt.) Ltd, All Rights Reserved.</p>
-        </div>
+        <div className="mt-3 inset-x-0 bottom-0 w-full max-w-full bg-red-600 text-center text-white py-2 overflow-hidden">
+  <p className="text-sm sm:text-base px-4 whitespace-normal">
+    Design and Developed by Fame Business Solutions, Copyright ©2021-2025 Fame Wheels (SMC-Pvt.) Ltd, All Rights Reserved.
+  </p>
+</div>
+
       </footer>
     </>
   );

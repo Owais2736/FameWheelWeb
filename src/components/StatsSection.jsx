@@ -6,7 +6,7 @@ function StatsSection() {
       <div className="container mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
           {/* Image 1 */}
-          <div className="text-center flex items-center gap-1">
+          <div className="pl-14 sm:pl-0 text-center flex items-center gap-1">
 
 
             <div>
@@ -42,7 +42,7 @@ function StatsSection() {
 
           </div>
           {/* Image 3 */}
-          <div className="p-6 flex justify-center">
+          <div className="p-6 pl-12 sm:pl-0  flex justify-center">
             
 
           <div className="text-center items-center flex gap-1">
@@ -65,7 +65,7 @@ function StatsSection() {
 
           </div>
           {/* Image 4 */}
-          <div className="p-6 flex justify-center">
+          <div className="p-6 pl-12 sm:pl-0 flex justify-center">
            
 
           <div className="text-center  items-center flex gap-1">

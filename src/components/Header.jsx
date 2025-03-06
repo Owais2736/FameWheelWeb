@@ -6,9 +6,9 @@ function Header() {
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 50) {
-        setBgClass("bg-red-700 bg-opacity-100"); 
+        setBgClass("bg-red-700 bg-opacity-100");
       } else {
-        setBgClass(""); 
+        setBgClass("");
       }
     };
 
@@ -17,7 +17,7 @@ function Header() {
   }, []);
 
   return (
-    <div className={`fixed top-0 left-0 w-full ${bgClass} h-[40px] text-white flex justify-between items-center px-4 md:px-10 transition-all duration-300`}>
+    <div className={`fixed top-0 left-0 w-full ${bgClass} h-[40px] text-white flex justify-between items-center px-4 md:px-10 transition-all duration-300 overflow-hidden`}>
       {/* Left Section */}
       <div className="flex gap-2 items-center">
         <img width={30} height={6} src="Images/header/flag.png" alt="Flag" />

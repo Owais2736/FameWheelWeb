@@ -19,76 +19,69 @@ function App() {
 
   return (
     <>
-<div className=" top-0  sticky z-[21]">
-<Header/>
+      <div className=" top-0  sticky z-[21]">
+        <Header />
+      </div>
 
-</div>
+      <div className=" top-7  sticky z-[21]">
+        <Header1 />
+      </div>
 
-<div className=" top-7  sticky z-[21]">
-<Header1/>
+      <div className="z-20 relative">
+        <HeroSection />
+      </div>
 
-</div>
-    <div className="z-20 relative">
-    <HeroSection/>
+      <div className="absolute w-full z-[20] top-[450px]">
+        <Form />
+      </div>
 
-    </div>
-<div className="absolute w-full z-[20] top-[450px]">
-<Form/>
+      <div className="mt-[190px] sm:mt-[120px]">
+        <Product1 />
+      </div>
 
-</div>
+      <div className="mt-14">
+        <Product2 />
+      </div>
 
-<div className="mt-[190px] sm:mt-[120px]">
-<Product1 />
+      <div className="mt-7">
+        <HeroSection2 />
+      </div>
 
-</div>
-<div className="mt-14">
-<Product2/>
+      <div className="mt-5">
+        <Product3 />
+      </div>
 
-</div>
+      <div>
+        <Product4 />
+      </div>
 
-<div className="mt-7">
+      <div className="mt-4">
+        <Product5 />
+      </div>
 
-  <HeroSection2/>
-</div>
+      <div>
+        <HeroSection3 />
+      </div>
 
-<div className="mt-5">
-  <Product3/>
-</div>
+      <div className="mt-4">
+        <Product6 />
+      </div>
 
+      <div className="mt-4">
+        <HeroSection4 />
+      </div>
 
-<div>
-  <Product4/>
-</div>
+      <div className="mt-4">
+        <PaymentSection />
+      </div>
 
-<div className="mt-4">
-  <Product5/>
-</div>
+      <div className="mt-4">
+        <StatsSection />
+      </div>
 
-<div>
-  <HeroSection3/>
-</div>
-
-<div className="mt-4">
-  <Product6/>
-</div>
-
-<div className="mt-4">
-  <HeroSection4/>
-</div>
-
-<div className="mt-4">
-  <PaymentSection/>
-</div>
-
-<div className="mt-4">
-
-  <StatsSection/>
-</div>
-
-
-<div>
-<Footer/>
-</div>
+      <div>
+        <Footer />
+      </div>
     </>
   )
 }

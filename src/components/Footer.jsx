@@ -5,7 +5,8 @@ function Footer() {
   return (
     <>
       <footer className="bg-gray-100 pt-5">
-        {/* Newsletter Subscription */}
+
+
         <div className="max-w-6xl mx-auto bg-white rounded-lg p-6 mb-8 shadow-sm w-full">
           <div className="flex flex-col md:flex-row items-center justify-between w-full">
             <div className="mb-4 md:mb-0">
@@ -26,7 +27,7 @@ function Footer() {
           </div>
         </div>
 
-        {/* Footer Links (Fully Responsive Grid) */}
+
         <div className="max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 sm:gap-8 w-full px-4 sm:px-0">
           <div>
             <h3 className="font-bold text-lg mb-4">Company</h3>
@@ -101,7 +102,7 @@ function Footer() {
           </div>
         </div>
 
-        {/* Sticky Bottom Footer - Fully Responsive */}
+
         <div className="mt-3 inset-x-0 bottom-0 w-full max-w-full bg-red-600 text-center text-white py-2 overflow-hidden">
           <p className="text-xs sm:text-sm px-2 sm:px-4 break-words">
             Design and Developed by Fame Business Solutions, Copyright ©2021-2025 Fame Wheels (SMC-Pvt.) Ltd, All Rights Reserved.

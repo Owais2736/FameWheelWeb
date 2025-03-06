@@ -2,18 +2,18 @@ import React from 'react';
 
 function HeroSection2() {
   return (
-    <div 
+    <div
       className="relative bg-[url('/Images/BannarImage/hero2.png')] bg-black bg-cover bg-center bg-no-repeat 
                  px-6 sm:py-20 py-10 font-[sans-serif] text-white min-h-[450px] flex items-center justify-center"
     >
-      {/* 🔹 Top Heading Above Blur Div */}
-      <h2 className="absolute top-6 mt-4 text-2xl sm:text-3xl font-bold text-center">
-      FameWheels Car Suggest
+
+      <h2 className="absolute top-6 mt-3 text-2xl sm:text-3xl font-bold text-center">
+        FameWheels Car Suggest
       </h2>
 
       <div className="w-[90%] max-w-screen-xl rounded-xl flex flex-col lg:flex-row items-center p-6 lg:p-12 
                       bg-gray-800 bg-opacity-30 backdrop-blur-md relative z-10">
-        
+
         {/* Left Content */}
         <div className="lg:w-1/2 flex flex-col justify-center h-full">
           <p className="text-[26px] leading-tight">Not Sure,</p>

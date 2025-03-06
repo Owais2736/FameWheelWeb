@@ -1,61 +1,58 @@
 [
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Jetour",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/logo.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Toyota",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/toyota-logos-brands-10.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Suzuki",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/1280px-Suzuki_logo_2.svg.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Honda",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/honda-logo-png-picture-20.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
-    },
-
-    {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
-    },
-
-
-    {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Daisthasau",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/daihatsu-logo-A6249D607C-seeklogo.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "KIA",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/KIA_logo2.svg.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Peoguet",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/pngimg.com%20-%20peugeot_PNG36.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Hundai",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/580b57fcd9996e24bc43c482.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Haval",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/Haval-logo-1366x768.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "Changan",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/Changan-Logo%20(1).png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "DFSK",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/dfsk-logo-90571CBC30-seeklogo.png"
     },
     {
-        "title":"suzuki",
-        "src":"Images/product2/firstlogo.png"
+        "title": "MG",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/MG.png"
+    },
+    {
+        "title": "Audi",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/audi-logo-1995-download.png"
+    },
+    {
+        "title": "FAW",
+        "src": "https://d2nn1d293raok6.cloudfront.net/public/makes/faw-logo-7F0D28D86E-seeklogo.png"
     }
 ]

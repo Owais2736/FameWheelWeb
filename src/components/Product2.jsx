@@ -5,7 +5,7 @@ function Product2() {
   return (
     <>
       <div className="max-w-screen-2xl mx-auto px-6 md:px-10 lg:px-16 xl:px-20">
-        
+
         <h1 className="text-[24px] sm:text-[28px] font-bold mb-6 text-left">
           Browse Cars by Make
         </h1>
@@ -28,7 +28,7 @@ function Product2() {
           ))}
         </div>
 
-       
+
         <div className="flex justify-end mt-6 pr-4 md:pr-10 lg:pr-16 xl:pr-5">
           <button className="w-[120px] h-[38px] border border-black rounded-lg hover:bg-black hover:text-white transition">
             Show More

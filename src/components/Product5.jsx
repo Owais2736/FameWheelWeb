@@ -16,21 +16,19 @@ function Product5() {
         {/* Tabs */}
         <ul className="flex border-b">
           <li
-            className={`tab text-[14px] sm:text-[15px] py-2 px-4 cursor-pointer ${
-              activeTab === "home"
+            className={`tab text-[14px] sm:text-[15px] py-2 px-4 cursor-pointer ${activeTab === "home"
                 ? "text-red-900 font-bold border-b-2 border-red-900"
                 : "text-gray-600 font-semibold border-b-2 border-transparent"
-            }`}
+              }`}
             onClick={() => setActiveTab("home")}
           >
             Transmission
           </li>
           <li
-            className={`tab text-[14px] sm:text-[15px] py-2 px-4 cursor-pointer ${
-              activeTab === "setting"
+            className={`tab text-[14px] sm:text-[15px] py-2 px-4 cursor-pointer ${activeTab === "setting"
                 ? "text-red-900 font-bold border-b-2 border-red-900"
                 : "text-gray-600 font-semibold border-b-2 border-transparent"
-            }`}
+              }`}
             onClick={() => setActiveTab("setting")}
           >
             Fuel Type

@@ -1,52 +1,50 @@
 [
-    
     {
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-},
-{
-    "title":"Karachi",
-    "src":"https://gallery.famewheels.com/images/cityIcon/Karachi.png"
-}
-
+        "title": "Karachi",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Karachi.png"
+    },
+    {
+        "title": "Faislabad",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Faislabad.png"
+    },
+    {
+        "title": "Sukkur",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Sukker.png"
+    },
+    {
+        "title": "Sahiwal",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Sahiwal.png"
+    },
+    {
+        "title": "Lahore",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Lahore.png"
+    },
+    {
+        "title": "Islamabad",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Islamabad.png"
+    },
+    {
+        "title": "Bahawalpur",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Bahawalpur.png"
+    },
+    {
+        "title": "Hyderabad",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Hyderabad.png"
+    },
+    {
+        "title": "Multan",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Multan.png"
+    },
+    {
+        "title": "Quetta",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Quetta.png"
+    },
+    {
+        "title": "Peshawar",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Peshwar.png"
+    },
+    {
+        "title": "sialkot",
+        "src": "https://gallery.famewheels.com/images/cityIcon/Sialkot.png"
+    }
 ]

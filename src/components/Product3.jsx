@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import prod4 from '../Json/Product3Cat.json';
 import prod3 from '../Json/Product3.json';
+import image1 from '../../public/Images/Product3/Diesel_cars.png'
 
 function Product3() {
   const [activeTab, setActiveTab] = useState('home');
@@ -61,7 +62,7 @@ function Product3() {
                   className="bg-white border p-5 shadow-md rounded-lg font-[sans-serif] overflow-hidden"
                 >
                   <div>
-                    <img src={data.src} alt={data.title} className="w-full h-auto object-cover" />
+                    <img src={image1} alt={data.title} className="w-full h-auto object-cover" />
                   </div>
                   <div className="p-2 flex flex-col items-center">
                     <h3 className="text-[18px] mt-3 text-gray-800">{data.title}</h3>

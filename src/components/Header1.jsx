@@ -37,7 +37,7 @@ function Header1() {
         </div>
       ) : (
         <div
-          className={`absolute top-[20px] left-1/2 transform -translate-x-1/2 w-[80%] ${bgClass} p-5 text-white flex justify-between items-center transition-all duration-300 rounded-3xl z-50`}
+          className={`absolute top-[20px] left-1/2 transform -translate-x-1/2 w-[80%] ${bgClass} p-4 text-white flex justify-between items-center transition-all duration-300 rounded-3xl z-50`}
         >
 
           <div className="flex items-center">
@@ -85,7 +85,7 @@ function Header1() {
             <div className="text-lg font-semibold cursor-pointer">Blog</div>
 
 
-            <select className="w-[130px] h-[40px] bg-red-800 pl-2 rounded-lg text-white bg-transparent focus:outline-none">
+            <select className="w-[130px] h-[40px] bg-red-800  pl-2 rounded-lg text-white ">
               <option className="text-black bg-white">Post Your Ads</option>
               <option className="text-black bg-white">Yamaha</option>
               <option className="text-black bg-white">Honda</option>

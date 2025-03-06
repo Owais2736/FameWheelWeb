@@ -7,7 +7,7 @@ function Product3() {
   const [activeTab, setActiveTab] = useState('home');
 
   return (
-    <div className="max-w-screen-2xl mx-auto px-4 md:px-8 lg:px-12 xl:px-16">
+    <div className="max-w-screen-2xl mx-auto px-6 md:px-8 lg:px-12 xl:px-16">
       <div className="font-sans p-4">
         {/* Heading Above Tabs */}
         <h1 className="text-[20px] sm:text-[28px] font-bold mb-6 text-left">

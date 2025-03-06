@@ -4,13 +4,13 @@ import prod2 from '../Json/Product2.json';
 function Product2() {
   return (
     <>
-      <div className="max-w-screen-2xl mx-auto px-4 md:px-10 lg:px-16 xl:px-20">
+      <div className="max-w-screen-2xl mx-auto px-6 md:px-10 lg:px-16 xl:px-20">
         
         <h1 className="text-[24px] sm:text-[28px] font-bold mb-6 text-left">
           Browse Cars by Make
         </h1>
 
-        <div className="flex flex-wrap justify-center sm:justify-start gap-4">
+        <div className="flex flex-wrap justify-center sm:justify-start gap-3">
           {prod2.map((data) => (
             <div
               key={data.title}

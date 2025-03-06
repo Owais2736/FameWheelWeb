@@ -6,6 +6,12 @@ import Product1 from "./components/Product1"
 import Product2 from "./components/Product2"
 import Product3 from "./components/Product3"
 import Header1 from "./components/Header1"
+import Product4 from "./components/Product4"
+import Product5 from "./components/Product5"
+import HeroSection3 from "./components/HeroSection3"
+import Product6 from "./components/Product6"
+import HeroSection4 from "./components/HeroSection4"
+import PaymentSection from "./components/PaymentSection"
 
 function App() {
 
@@ -45,6 +51,31 @@ function App() {
 
 <div className="mt-5">
   <Product3/>
+</div>
+
+
+<div>
+  <Product4/>
+</div>
+
+<div className="mt-4">
+  <Product5/>
+</div>
+
+<div>
+  <HeroSection3/>
+</div>
+
+<div className="mt-4">
+  <Product6/>
+</div>
+
+<div className="mt-4">
+  <HeroSection4/>
+</div>
+
+<div className="mt-4">
+  <PaymentSection/>
 </div>
     </>
   )

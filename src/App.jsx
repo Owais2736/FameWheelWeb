@@ -12,25 +12,27 @@ import HeroSection3 from "./components/HeroSection3"
 import Product6 from "./components/Product6"
 import HeroSection4 from "./components/HeroSection4"
 import PaymentSection from "./components/PaymentSection"
+import StatsSection from "./components/StatsSection"
+import Footer from "./components/Footer"
 
 function App() {
 
   return (
     <>
-<div className=" top-0  sticky">
+<div className=" top-0  sticky z-[21]">
 <Header/>
 
 </div>
 
-<div className=" top-7  sticky">
+<div className=" top-7  sticky z-[21]">
 <Header1/>
 
 </div>
-    <div className="z-20">
+    <div className="z-20 relative">
     <HeroSection/>
 
     </div>
-<div className="absolute w-full top-[450px]">
+<div className="absolute w-full z-[20] top-[450px]">
 <Form/>
 
 </div>
@@ -76,6 +78,16 @@ function App() {
 
 <div className="mt-4">
   <PaymentSection/>
+</div>
+
+<div className="mt-4">
+
+  <StatsSection/>
+</div>
+
+
+<div>
+<Footer/>
 </div>
     </>
   )

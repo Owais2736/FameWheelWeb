@@ -37,7 +37,7 @@ function Product6() {
 
         {/* Content Section */}
         <div className="w-full mt-8">
-          {activeTab === 'home' && ( <div id="carouselExampleControls" className="carousel slide mt-6 z-0 relative" data-bs-ride="carousel">
+          {activeTab === 'home' && ( <div id="carouselExampleControls2" className="carousel slide mt-6 z-0 relative" data-bs-ride="carousel">
                     <div className="carousel-inner ">
                       
                       {/* First Carousel Item */}
@@ -113,7 +113,7 @@ function Product6() {
                     <button
                       className="carousel-control-prev absolute top-1/2 left-0 transform -translate-y-1/2"
                       type="button"
-                      data-bs-target="#carouselExampleControls"
+                      data-bs-target="#carouselExampleControls2"
                       data-bs-slide="prev"
                     >
                       <span
@@ -127,7 +127,7 @@ function Product6() {
                     <button
                       className="carousel-control-next absolute top-1/2 right-0 transform -translate-y-1/2"
                       type="button"
-                      data-bs-target="#carouselExampleControls"
+                      data-bs-target="#carouselExampleControls2"
                       data-bs-slide="next"
                     >
                       <span
@@ -141,7 +141,7 @@ function Product6() {
                   </div>
           )}
 
-          {activeTab === 'setting' && (  <div id="carouselExampleControls" className="carousel slide mt-6 z-0 relative" data-bs-ride="carousel">
+          {activeTab === 'setting' && (  <div id="carouselExampleControls3" className="carousel slide mt-6 z-0 relative" data-bs-ride="carousel">
                     <div className="carousel-inner ">
                       
                       {/* First Carousel Item */}
@@ -217,7 +217,7 @@ function Product6() {
                     <button
                       className="carousel-control-prev absolute top-1/2 left-0 transform -translate-y-1/2"
                       type="button"
-                      data-bs-target="#carouselExampleControls"
+                      data-bs-target="#carouselExampleControls3"
                       data-bs-slide="prev"
                     >
                       <span
@@ -231,7 +231,7 @@ function Product6() {
                     <button
                       className="carousel-control-next absolute top-1/2 right-0 transform -translate-y-1/2"
                       type="button"
-                      data-bs-target="#carouselExampleControls"
+                      data-bs-target="#carouselExampleControls3"
                       data-bs-slide="next"
                     >
                       <span

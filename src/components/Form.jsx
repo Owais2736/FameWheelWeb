@@ -36,7 +36,7 @@ function Form() {
 
               {/** Grid Item 3 **/}
               <div className="p-2  rounded-lg">
-                <button className='w-[120px] h-[38px] rounded-lg  bg-red-600 text-white'>Search</button>
+                <button className=' w-[100px] lg:w-[120px] h-[38px] rounded-lg  bg-red-600 text-white'>Search</button>
                 <button className='w-[100px] sm:w-[120px] text-[12px] sm:text-[14px] lg:text-[18px] md:w-[150px] xl:w-[230px] h-[38px] ml-3 rounded-lg border-2 border-red-200  text-gray-600'>Advanced Search</button>
               </div>
 
